@@ -1,5 +1,5 @@
 # DiaryBookManager
 
 
-Have fun ;) 
-Yes, I will :D 
+
+Yes, I will have a fun :D 
